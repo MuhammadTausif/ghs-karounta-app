@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864331457085",
+    "firebase_url": "https://ghs-karounta.firebaseio.com",
+    "project_id": "ghs-karounta",
+    "storage_bucket": "ghs-karounta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864331457085:android:410d7c3ef5271ca4",
+        "android_client_info": {
+          "package_name": "com.example.ghskarounta1.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864331457085-a4480lvcks14tkjjik6la74rjo4aebvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6Rg96CqTJ7TdxQnDFn1EzBDTmDPAekY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
